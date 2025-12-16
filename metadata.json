@@ -1,0 +1,5 @@
+{
+  "name": "AsyncVideoPro",
+  "description": "A dashboard for asynchronous video processing tasks with real-time status tracking and persistent state management.",
+  "requestFramePermissions": []
+}
